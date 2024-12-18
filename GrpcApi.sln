@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrpcApi", "GrpcApi\GrpcApi.csproj", "{67B4DFA4-B347-44EB-BB92-0B5DA01BD274}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrpcApi.Server", "GrpcApi.Server\GrpcApi.Server.csproj", "{0BCED55A-7108-4121-90EA-D24A474EA4D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrpcApi.Sdk", "GrpcApi.Sdk\GrpcApi.Sdk.csproj", "{4A85ED77-035E-4B93-A3C5-8FC31B36EA7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67B4DFA4-B347-44EB-BB92-0B5DA01BD274}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67B4DFA4-B347-44EB-BB92-0B5DA01BD274}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67B4DFA4-B347-44EB-BB92-0B5DA01BD274}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67B4DFA4-B347-44EB-BB92-0B5DA01BD274}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BCED55A-7108-4121-90EA-D24A474EA4D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BCED55A-7108-4121-90EA-D24A474EA4D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BCED55A-7108-4121-90EA-D24A474EA4D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BCED55A-7108-4121-90EA-D24A474EA4D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A85ED77-035E-4B93-A3C5-8FC31B36EA7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A85ED77-035E-4B93-A3C5-8FC31B36EA7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A85ED77-035E-4B93-A3C5-8FC31B36EA7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A85ED77-035E-4B93-A3C5-8FC31B36EA7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
